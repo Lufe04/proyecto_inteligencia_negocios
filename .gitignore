@@ -1,0 +1,11 @@
+# Archivos grandes (superan el límite de 100 MB de GitHub)
+*.csv
+
+# Archivos temporales y de sesión
+cells_dump.txt
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
