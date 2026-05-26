@@ -9,3 +9,5 @@ cells_dump.txt
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+# Added by code-review-graph
+.code-review-graph/
